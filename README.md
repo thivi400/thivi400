@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img width="1200" height="500" alt="79c70d4a-f9a3-4658-b5b8-281a7ff42709" src="https://github.com/user-attachments/assets/852e9c73-7761-45ba-bfd3-fec5241af2f9" />
+<!-- <img width="1200" height="500" alt="79c70d4a-f9a3-4658-b5b8-281a7ff42709" src="https://github.com/user-attachments/assets/852e9c73-7761-45ba-bfd3-fec5241af2f9" /> -->
 
 
 <h1 align="center">Hi there 👋, I'm <span style="color:#58a6ff">Thivision</span></h1>
